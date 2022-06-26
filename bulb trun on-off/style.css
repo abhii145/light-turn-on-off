@@ -1,0 +1,27 @@
+body{
+    
+    
+    background-color: bisque;
+    animation-name: example;
+    animation-duration: 120s;
+  }
+  
+  @keyframes example {
+    0%   {background-color: bisque;}
+    25%  {background-color: yellow;}
+    50%  {background-color: blue;}
+    75%  {background-color: aquamarine ;}
+    100% {background-color: green;}
+  }
+ 
+
+
+.main-heading {
+    display: block;
+  margin-left: 450px;
+  padding-top: 3cm;
+    
+  }
+  
+
+    
